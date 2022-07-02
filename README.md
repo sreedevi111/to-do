@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Features
 
-It provides basic functionality of to-do, where user can add the text. After finishing the task, user is able to mark it as done. There is also a provision to delete
+It provides basic functionality of to-do, where user can add the text. After finishing the task, user is able to mark it as done. There is also a provision to delete.
 
 ## Technologies
 
